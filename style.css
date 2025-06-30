@@ -1,4 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+/* .school{
+    background-color: tomato;
+} */
 body{
-    background-color: white;
-    
+    background-color: blue;
+}
+#school2{
+    background-color: blueviolet;
+}
+.food{
+    background-color: pink;
+}
+.shoe{
+    background-color: yellow;
+}
+a{
+    text-decoration: none;
 }
