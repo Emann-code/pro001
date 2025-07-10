@@ -1,21 +1,55 @@
 *{
     box-sizing: border-box;
 }
-/* .school{
-    background-color: tomato;
-} */
+
 body{
-    background-color: blue;
+    background-color: white;
 }
-#school2{
-    background-color: blueviolet;
+
+.div1 {
+    background-color: rgb(190, 190, 190);
+    height: 370px;
+    width: 60%;
+    margin: auto;
+    padding: 10px;
+    margin-top: 50px;
 }
-.food{
-    background-color: pink;
+
+.div2 {
+    background-color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-left: 5px green solid;
 }
-.shoe{
+
+.div3 {
+    background-color: white;
+    margin: 10px;
+}
+
+.p1, .p2, .p3 {
+    margin: 10px;
+}
+
+.p2 {
     background-color: yellow;
 }
-a{
-    text-decoration: none;
+
+.div4 {
+    margin-top: 20px;
+    border-radius: 5px;
+    width: 130px;
+    height: 30px;
+    background-color: green;
+    color: white;
+    text-align: center;
+
+}
+
+span {
+    color: purple;
+}
+
+h1, h3 {
+    font-family: Arial, Helvetica, sans-serif;
 }
